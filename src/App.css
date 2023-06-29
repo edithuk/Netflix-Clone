@@ -2,5 +2,5 @@
   background-color: #111;
 }
 .app::-webkit-scrollbar{
-  display: none;
+  display: flex;
 }
