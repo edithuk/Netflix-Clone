@@ -3,4 +3,5 @@
 }
 .app::-webkit-scrollbar{
   display: flex;
+  color: black
 }
